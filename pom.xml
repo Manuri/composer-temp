@@ -28,14 +28,14 @@
     <groupId>org.ballerinalang</groupId>
     <artifactId>ballerina-composer-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.8.17-SNAPSHOT</version>
+    <version>0.8.17</version>
     <name>Ballerina Composer - Parent</name>
 
     <scm>
         <url>https://github.com/manuri/composer-temp.git</url>
         <developerConnection>scm:git:https://github.com/manuri/composer-temp.git</developerConnection>
         <connection>scm:git:https://github.com/manuri/composer-temp.git</connection>
-        <tag>HEAD</tag>
+        <tag>ballerina-composer-parent-0.8.17</tag>
     </scm>
 
     <dependencyManagement>
