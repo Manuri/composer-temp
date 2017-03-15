@@ -32,9 +32,9 @@
     <name>Ballerina Composer - Parent</name>
 
     <scm>
-        <url>https://github.com/ballerinalang/composer.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/composer.git</developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/composer.git</connection>
+        <url>https://github.com/manuri/composer-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/composer-temp.git</developerConnection>
+        <connection>scm:git:https://github.com/manuri/composer-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
@@ -461,6 +461,8 @@
         <native.constructs.provider.package>org.ballerinalang.nativeimpl</native.constructs.provider.package>
         <native.constructs.provider.class>BallerinaNativeConstructsProvider</native.constructs.provider.class>
         <mvn.processor.plugin.version>2.2.4</mvn.processor.plugin.version>
+
+        <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 
     <modules>
